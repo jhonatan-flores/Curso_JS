@@ -1,0 +1,16 @@
+{
+  "name": "curso_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "JHonatan": "node index.js",
+    "Henrry":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
